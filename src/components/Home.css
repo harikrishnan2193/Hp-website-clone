@@ -1,0 +1,15 @@
+.bd-colr{
+    background-color: rgb(17, 179, 244);
+}
+.bd-colr-lit{
+    background-color: rgb(97, 209, 247);
+}
+.bd-colr3{
+    background-color: black;
+}
+.vertical{
+    border-left: 1px solid black;
+    height:80px;
+    
+    
+}
